@@ -1,4 +1,4 @@
-Nama    : Adinda Nurdzykra
+Nama    : Adinda Nurdzykra Putri Nugraini
 
 NPM     : 2206082083
 
