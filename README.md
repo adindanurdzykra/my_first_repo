@@ -4,4 +4,4 @@ NPM     : 2206082083
 
 Kelas   : PBP E
 
-Hobi    : Tidur
+Hobi    : Makan
